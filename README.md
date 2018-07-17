@@ -1,2 +1,2 @@
 # my_cool_project
-Working project
+Working project for the Els-tech
